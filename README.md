@@ -4,6 +4,11 @@
 ## 视频采集资源
 - 资源地址：<a href="https://www.yeszy.fun" target="_blank">https://www.yeszy.fun</a>
 
+## 视频解析接口
+|接口格式|是否有广告|接口地址|
+|-|-|-|
+|.m3u8|是|https://www.baidu.com|
+
 ## 影视模版
 |模板编号|分类|模板说明|演示截图|
 |-|-|-|-|
