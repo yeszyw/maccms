@@ -2,7 +2,7 @@
 苹果CMS模板仓库
 
 ## 视频采集资源
-- 资源地址：<a href="https://www.yeszy.fun" target="_blank">https://www.yeszy.fun</a>
+- 资源地址：https://www.yeszy.fun
 
 ## 视频解析接口
 |接口格式|是否有广告|接口地址|
