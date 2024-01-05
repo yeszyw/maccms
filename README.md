@@ -5,7 +5,7 @@
 - 资源地址：<a href="https://www.yeszy.fun" target="_blank">https://www.yeszy.fun</a>
 
 ## 影视模版
-|模板编号|分类|演示截图|下载链接|
+|模板编号|分类|模板说明|演示截图|
 |-|-|-|-|
 |X001|Sex|images|Download|
 
