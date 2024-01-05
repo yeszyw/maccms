@@ -5,9 +5,9 @@
 - 资源地址：<a href="https://www.yeszy.fun" target="_blank">https://www.yeszy.fun</a>
 
 ## 影视模版
-|模板编号|分类|演示截图|
-|-|-|-|
-|X001|Sex||||||||
+|模板编号|分类|演示截图|下载链接|
+|-|-|-||-
+|X001|Sex|images|Download|
 
 ## 联系方式
 - Telegram:@hsfsl
